@@ -81,12 +81,12 @@ analytics:
 author:
   name             : "Shuyuan Wu"
   avatar           : "shuyuan.png"
-  bio              : "Ph.D. Student"
-  location         : "Beijing, China"
+  bio              : "Lecturer"
+  location         : "Shanghai, China"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=WrH-CWoAAAAJ&hl=en"
-  email            : "shuyuan.w@pku.edu.cn"
+  email            : "shuyuan.w@msg.sufe.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
