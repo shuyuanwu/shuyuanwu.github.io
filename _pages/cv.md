@@ -11,4 +11,4 @@ Please find my CV [here](/files/CV_shuyuan_0305.pdf).
 
 ## Contact Me
 
-Email: shuyuan.w[at]pku.edu.cn
+Email: shuyuan.w[at]msg.sufe.edu.cn
