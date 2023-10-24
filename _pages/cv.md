@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Please find my CV [here](/files/CV_shuyuan_0305.pdf).
+Please find my CV [here](/files/CV1024.pdf).
 
 ## Contact Me
 
