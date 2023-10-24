@@ -4,9 +4,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+- **Wu, S.**, Huang, D.<sup>*</sup>,  Wang, H. (2023). "[Quasi-Newton Updating for Large-Scale Distributed Learning](https://academic.oup.com/jrsssb/article-abstract/85/4/1326/7193744)". Journal of the Royal Statistical Society, Series B: Statistical Methodology 85(4), 1326-1354.
+- **Wu, S.**, Huang, D.<sup>*</sup>,  Wang, H. (2023). "[Network Gradient Descent Algorithm for Decentralized Federated Learning](https://www.tandfonline.com/doi/full/10.1080/07350015.2022.2074426)". Journal of Business & Economic Statistics 41(3), 806-818.
+- **Wu, S.**, Zhu, X.<sup>*</sup>, Wang, H. (2023). "[Subsampling and Jackknifing: A Practically Convenient Solution for Large Data Analysis with Limited Computational Resources](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0257_na.pdf)". Statistica Sinica 33, 2041-2064.
 - Zhu, X., Pan, R., **Wu, S.<sup>*</sup>**, Wang, H. (2022). "[Feature Screening for Massive Data Analysis by Subsampling](https://www.tandfonline.com/doi/full/10.1080/07350015.2021.1990771)". Journal of Business & Economic Statistics 40, 1892-903.
-- **Wu, S.**, Zhu, X.<sup>*</sup>, Wang, H. (2023). "[Subsampling and Jackknifing: A Practically Convenient Solution for Large Data Analysis with Limited Computational Resources](http://www3.stat.sinica.edu.tw/ss_newpaper/SS-2021-0257_na.pdf)". Statistica Sinica online.
-- **Wu, S.**, Huang, D.<sup>*</sup>,  Wang, H. (2022). "[Network Gradient Descent Algorithm for Decentralized Federated Learning](https://www.tandfonline.com/doi/full/10.1080/07350015.2022.2074426)". Journal of Business & Economic Statistics online.
 - Wang, F., Tian, C., Huang, D.<sup>*</sup>, **Wu, S.<sup>*</sup>**, Wang, H. (2022). "[Sequential One-Step Estimator by Subsampling for Customer Churn Analysis with Massive Datasets](https://www.researchgate.net/profile/Tianchen-Gao/publication/363690413_Sequential_one-step_estimator_by_sub-sampling_for_customer_churn_analysis_with_massive_data_sets/links/6395546f484e65005bff09f3/Sequential-One-step-Estimator-by-Sub-sampling-for-Customer-Churn-Analysis-with-Massive-Data-sets.pdf)". Journal of the Royal Statistical Society. Series C: Applied Statistics 71, 1753-86.
 
 
